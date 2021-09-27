@@ -31,5 +31,5 @@ ooooooooooooooooooooooooooooooooooooooooooooooodOKNMMMMMMMMMWOoooooooooooooooooo
 oooooooooooooooooooooooooooooooooooooooooooooooooodxOXWMMMMMMNxooooooooooooooooooooooooooooooooooooo
 oooooooooooooooooooooooooooooooooooooooooooooooooooooodx0XNNXkoooooooooooooooooooooooooooooooooooooo
 
-essa é a minha pastas de exercicíos do curso de desenvolvimento web da Trybe! seja bem vindo e por favor, be kind! :D
-Esse arquivo é só um teste dos exercícios de git e github
+essa é a minha pastas de exercicíos do curso de desenvolvimento web da Trybe! seja bem vindo e aprecie
+Estou aqui na Trybe por um motivo simples: quero crescer! Sempre fui apaixonado por aprender e pretendo potencializar meus conhecimentos na área da tecnologia.
